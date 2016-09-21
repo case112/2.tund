@@ -23,6 +23,9 @@ git remote set-url origin https://romilrobtsenkov@github.com/romilrobtsenkov/kur
 
 andmebaas
 
+if16
+ifikad16
+
 mysql -uif16 -pifikad16
 show databases;
 
