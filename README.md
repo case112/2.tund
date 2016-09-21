@@ -20,3 +20,11 @@ git clone https://romilrobtsenkov@github.com/romilrobtsenkov/kursus.git
 
 // kui annab Forbidden error'i siis võib olla salvestuse URL vale, saab muuta nt nii
 git remote set-url origin https://romilrobtsenkov@github.com/romilrobtsenkov/kursus.git
+
+andmebaas
+
+mysql -uif16 -pifikad16
+show databases;
+
+use if16_case112
+select * from user sample;
